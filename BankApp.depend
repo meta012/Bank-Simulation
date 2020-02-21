@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1557663069 source:c:\users\meta\desktop\banka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"QueueF.h"
+	"Customer.h"
+	"Teller.h"
+	"func.h"
+
+1557505970 c:\users\meta\desktop\banka\queuef.h
+
+1557628453 c:\users\meta\desktop\banka\customer.h
+
+1557261260 c:\users\meta\desktop\banka\func.h
+
+1557629699 c:\users\meta\desktop\banka\teller.h
+
+1557261312 c:\users\meta\desktop\banka\queuef.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueF.h"
+
+1557486990 c:\users\meta\desktop\banka\customer.c
+	<stdio.h>
+	"Customer.h"
+	"func.h"
+
+1557301954 c:\users\meta\desktop\banka\teller.c
+	"teller.h"
+
+1557262584 c:\users\meta\desktop\banka\func.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"func.h"
+
+1557262584 source:c:\users\meta\desktop\banka\func.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"func.h"
+
+1557629702 source:c:\users\meta\desktop\banka\teller.c
+	"teller.h"
+
+1557261312 source:c:\users\meta\desktop\banka\queuef.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueF.h"
+
+1557628472 source:c:\users\meta\desktop\banka\customer.c
+	<stdio.h>
+	"Customer.h"
+
